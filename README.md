@@ -61,11 +61,11 @@ This project uses the OMDb API for fetching movie posters.
 
 # How It Works
 
-1.User selects a movie from the dropdown.
-2.The system calculates similarity scores using cosine similarity.
-3.Top 5 similar movies are selected.
-4.Posters are fetched using the OMDb API.
-5.Recommendations are displayed on the Streamlit interface.
+- 1.User selects a movie from the dropdown.
+- 2.The system calculates similarity scores using cosine similarity.
+- 3.Top 5 similar movies are selected.
+- 4.Posters are fetched using the OMDb API.
+- 5.Recommendations are displayed on the Streamlit interface.
 
 ---
 <img width="1914" height="944" alt="image" src="https://github.com/user-attachments/assets/27c66b9f-6256-422c-93e1-bfc2e58ec308" />
